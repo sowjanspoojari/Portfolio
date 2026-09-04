@@ -1,0 +1,224 @@
+{
+    "personal": {
+        "name": "Sowjan S Poojari",
+        "title": "Full-Stack Developer | Java | Django | React",
+        "summary": "Passionate MCA student focusing on building scalable web applications. Dedicated to problem solving and creating efficient backend systems coupled with modern, responsive frontends. Constantly learning new technologies and striving for excellence in software development.",
+        "email": "sowjanspoojari@gmail.com",
+        "location": "Moodbidri, Karnataka, India",
+        "resumeUrl": "/Sowjan%20S%20Poojary%20Resume.pdf",
+        "social": {
+            "github": "https://github.com/sowjanspoojari",
+            "linkedin": "https://www.linkedin.com/in/sowjan-s-poojari-548260323/",
+            "email": "mailto:sowjanspoojari@gmail.com"
+        }
+    },
+    "about": {
+        "background": "I am an MCA (Master of Computer Applications) student with a strong passion for full-stack development. I enjoy taking complex problems and turning them into simple and beautiful designs.",
+        "interests": [
+            "Web Development",
+            "Problem Solving",
+            "Backend Systems",
+            "System Architecture"
+        ]
+    },
+    "skills": {
+        "languages": [
+            {
+                "name": "Java",
+                "level": 85
+            },
+            {
+                "name": "Python",
+                "level": 80
+            },
+            {
+                "name": "JavaScript",
+                "level": 90
+            },
+            {
+                "name": "TypeScript",
+                "level": 75
+            },
+            {
+                "name": "SQL",
+                "level": 85
+            }
+        ],
+        "frontend": [
+            {
+                "name": "HTML & CSS",
+                "level": 95
+            },
+            {
+                "name": "React",
+                "level": 85
+            },
+            {
+                "name": "TypeScript",
+                "level": 75
+            },
+            {
+                "name": "Material UI",
+                "level": 70
+            },
+            {
+                "name": "Tailwind CSS",
+                "level": 90
+            }
+        ],
+        "backend": [
+            {
+                "name": "Django",
+                "level": 80
+            },
+            {
+                "name": "REST API",
+                "level": 85
+            },
+            {
+                "name": "Node.js",
+                "level": 60
+            }
+        ],
+        "database": [
+            {
+                "name": "MySQL",
+                "level": 80
+            },
+            {
+                "name": "SQLite",
+                "level": 85
+            }
+        ],
+        "tools": [
+            {
+                "name": "Git",
+                "level": 85
+            },
+            {
+                "name": "VS Code",
+                "level": 90
+            },
+            {
+                "name": "Postman",
+                "level": 85
+            }
+        ]
+    },
+    "projects": [
+        {
+            "id": "1",
+            "title": "AI Chatbot",
+            "description": "An interactive AI-powered conversational agent built to provide smart responses and assist users with various tasks in real-time.",
+            "image": "https://images.unsplash.com/photo-1531746790731-6c087fecd65a?q=80&w=800&auto=format&fit=crop",
+            "tags": [
+                "React",
+                "TypeScript",
+                "OpenAI API",
+                "Tailwind"
+            ],
+            "role": "Frontend Developer",
+            "githubUrl": "https://github.com",
+            "liveUrl": "#"
+        },
+        {
+            "id": "2",
+            "title": "Django Student Management System",
+            "description": "A comprehensive portal for managing student records, attendance, courses, and grading, featuring role-based access control.",
+            "image": "https://images.unsplash.com/photo-1501504905252-473c47e087f8?q=80&w=800&auto=format&fit=crop",
+            "tags": [
+                "Django",
+                "Python",
+                "SQLite",
+                "Bootstrap"
+            ],
+            "role": "Full-Stack Developer",
+            "githubUrl": "https://github.com",
+            "liveUrl": "#"
+        },
+        {
+            "id": "3",
+            "title": "Java Problem Solving Apps",
+            "description": "A collection of algorithmic challenges and data structure implementations focused on optimizing time and space complexity.",
+            "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=800&auto=format&fit=crop",
+            "tags": [
+                "Java",
+                "DSA",
+                "Algorithms"
+            ],
+            "role": "Developer",
+            "githubUrl": "https://github.com",
+            "liveUrl": null
+        },
+        {
+            "id": "4",
+            "title": "Mini Tasks & CRUD",
+            "description": "Various mini projects integrating third-party APIs, user authentication, and full CRUD functionality.",
+            "image": "https://images.unsplash.com/photo-1627398225058-eb15246facce?q=80&w=800&auto=format&fit=crop",
+            "tags": [
+                "React",
+                "Node.js",
+                "API",
+                "Auth"
+            ],
+            "role": "Developer",
+            "githubUrl": "https://github.com",
+            "liveUrl": "#"
+        }
+    ],
+    "education": [
+        {
+            "degree": "Master of Computer Applications (MCA)",
+            "institution": "Nitte University - NMAMIT, Nitte",
+            "year": "2025 - 2027",
+            "details": "Major in Computer Science. Consistent top performer with active participation in tech clubs.",
+            "coursework": [
+                "DBMS",
+                "Object-Oriented Programming (OOP)",
+                "Web Technology",
+                "Data Structures",
+                "Computer Networks"
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "title": "Introduction to Front-End Development",
+            "issuer": "Coursera",
+            "date": "2024",
+            "link": "/Coursera%207P7EKB8XFVKB.pdf"
+        },
+        {
+            "title": "Introduction to Artificial Intelligence (AI)",
+            "issuer": "Coursera",
+            "date": "2023",
+            "link": "/Coursera%209HH7UZZGVPLK.pdf"
+        },
+        {
+            "title": "React Basics",
+            "issuer": "Coursera",
+            "date": "2024",
+            "link": "/Coursera%20DUPOLI1X0VV8.pdf"
+        },
+        {
+            "title": "Oracle Cloud Infrastructure 2025 Certified Foundations Associate",
+            "issuer": "Oracle",
+            "date": "2026",
+            "link": "/Oracle Certification.pdf"
+        }
+    ],
+    "codingProfiles": [
+        {
+            "platform": "GitHub",
+            "username": "janedoe",
+            "url": "https://github.com/sowjanspoojari",
+            "stats": "200+ Contributions"
+        },
+        {
+            "platform": "LeetCode",
+            "username": "janedoe",
+            "url": "https://leetcode.com/u/Sowjanspoojari/",
+            "stats": "Max Rating: 1500"
+        }
+    ]
+}

@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    @apply bg-light-bg text-light-text font-sans antialiased transition-colors duration-300;
+  }
+
+  .dark body {
+    @apply bg-dark-bg text-dark-text;
+  }
+}
+
+@layer components {
+  .btn-primary {
+    @apply inline-flex items-center justify-center px-6 py-3 font-medium text-white bg-primary-600 rounded-lg hover:bg-primary-500 transition-colors shadow-lg shadow-primary-500/30;
+  }
+
+  .btn-outline {
+    @apply inline-flex items-center justify-center px-6 py-3 font-medium text-light-text dark:text-dark-text border-2 border-slate-200 dark:border-slate-700 rounded-lg hover:bg-slate-50 dark:hover:bg-slate-800 transition-colors;
+  }
+
+  .card {
+    @apply bg-light-card dark:bg-dark-card rounded-xl p-6 shadow-sm border border-slate-200 dark:border-slate-800 transition-all duration-300 hover:shadow-md;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold mb-12 text-center text-slate-900 dark:text-white;
+  }
+}
